@@ -1,14 +1,17 @@
-﻿# ⚡ Syrinx — 3D Interactive Web Experience
+﻿# ⚡ Syrinx — Modern Video Streaming Platform
 
-An interactive 3D developer portfolio and web platform built with **React**, **Three.js / React Three Fiber**, **Tailwind CSS**, and **Vite**.
+A high-performance, responsive video streaming web platform built with **React**, **Material UI**, **Redux Toolkit**, and **RapidAPI**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework:** React 18 + Vite
-- **3D Engine:** Three.js / React Three Fiber / Drei
-- **Styling:** Tailwind CSS
+- **Framework:** React 18
+- **State Management:** Redux Toolkit
+- **UI & Components:** Material UI (MUI v5), Emotion, React Icons
+- **Video Engine:** React Player
+- **Routing:** React Router DOM v6
+- **API Integration:** Axios
 
 ---
 
@@ -21,7 +24,7 @@ An interactive 3D developer portfolio and web platform built with **React**, **T
 
 2. **Run dev server:**
    \\\ash
-   npm run dev
+   npm start
    \\\
 
 ---
